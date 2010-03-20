@@ -11,7 +11,7 @@
 
 All the demos have been tested under
 
-    Ikarus
-    Ypsilon
-    Chez
-    Larceny
+* Ikarus
+* Ypsilon
+* Chez
+* Larceny
