@@ -6,3 +6,12 @@
     $ bzr branch lp:~derick-eddington/scheme-libraries/xitomatl
     $ git clone git://github.com/dharmatech/dharmalab.git
     $ git clone git://github.com/dharmatech/agave.git
+
+# Notes
+
+All the demos have been tested under
+
+    Ikarus
+    Ypsilon
+    Chez
+    Larceny
