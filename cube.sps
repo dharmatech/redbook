@@ -2,7 +2,7 @@
 (import (rnrs)
         (gl)
         (glut)
-        (agave glu)
+        (agave glu compat)
         (agave glamour window)
         (agave glamour misc))
 
